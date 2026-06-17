@@ -14,7 +14,7 @@
 
 | # | Solution | Problem |
 |---|----------|---------|
-| 1 | [C++](TwoSum.cpp) | [Two Sum](https://leetcode.com/problems/two-sum/) |
+| 1 | [C++ Solution](TwoSum.cpp) | [Leet code Two Sum](https://leetcode.com/problems/two-sum/) |
 
 ---
 
