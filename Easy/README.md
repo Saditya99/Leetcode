@@ -6,10 +6,7 @@
 
 ## 📊 Progress
 
-| Total | Solved | Remaining |
-|-------|--------|-----------|
-| 0 | 0 | 0 |
-
+**Solved:** 1 problem
 ---
 
 ## 📝 Problem List
