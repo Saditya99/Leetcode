@@ -4,14 +4,6 @@
 
 ---
 
-## 📊 Progress
-
-| Total | Solved | Remaining |
-|-------|--------|-----------|
-| 40 | 40 | 0 |
-
----
-
 ## 📝 Problem List
 
 | # | Problem | Solution | Topics |
