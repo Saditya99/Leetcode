@@ -12,9 +12,9 @@
 
 ## 📝 Problem List
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](TwoSum.cpp) |
+| # | Solution | Problem |
+|---|----------|---------|
+| 1 | [C++](TwoSum.cpp) | [Two Sum](https://leetcode.com/problems/two-sum/) |
 
 ---
 
