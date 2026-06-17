@@ -6,13 +6,15 @@
 
 ## 📊 Progress
 
-**Solved:** 1 problem
+✅ **1** problem solved
+
 ---
 
 ## 📝 Problem List
 
-| # | Problem | Solution | Topics |
-|---|---------|----------|--------|
+| # | Problem | Solution |
+|---|---------|----------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [C++](TwoSum.cpp) |
 
 ---
 
