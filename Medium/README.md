@@ -6,15 +6,14 @@
 
 ## 📊 Progress
 
-| Total | Solved | Remaining |
-|-------|--------|-----------|
-| 0 | 0 | 0 |
+## 📊 Progress
+
+✅ **1** problem solved
 
 ---
 
 ## 📝 Problem List
 
-| # | Problem | Solution | Topics |
-|---|---------|----------|--------|
-
----
+| # | Solution | Problem |
+|---|----------|---------|
+| 1 | [C++ Solution](AddTwoNumbers.cpp) | [Leetcode-Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
