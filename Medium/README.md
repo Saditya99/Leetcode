@@ -7,7 +7,7 @@
 
 ## 📊 Progress
 
-✅ **2** problem solved
+✅ **3** problem solved
 
 ---
 
