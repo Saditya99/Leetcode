@@ -6,7 +6,7 @@
 
 ## 📊 Progress
 
-✅ **1** problem solved
+✅ **3** problem solved
 
 ---
 
@@ -15,7 +15,9 @@
 | # | Solution | Problem |
 |---|----------|---------|
 | 1 | [C++ Solution](TwoSum.cpp) | [Leet code Two Sum](https://leetcode.com/problems/two-sum/) |
-| 2 | [c++ Solution](guessNumber.cpp) | [Leet code Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/)
+| 2 | [C++ Solution](guessNumber.cpp) | [Leet code Guess Number](https://leetcode.com/problems/guess-number-higher-or-lower/) |
+| 3 | [C++ Solution](palindromeNumber.cpp) | [Leetcode Palindrome number](https://leetcode.com/problems/palindrome-number/) |
+
 
 ---
 
