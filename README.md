@@ -14,7 +14,7 @@ A comprehensive collection of my LeetCode solutions in C++ with detailed explana
 
 | Difficulty | Problems | Links |
 |------------|----------|-------|
-| 🟢 **Easy** | 4 Solved | [View All →](Easy/) |
+| 🟢 **Easy** | 5 Solved | [View All →](Easy/) |
 | 🟡 **Medium** | 7 Solved | [View All →](Medium/) |
 | 🔴 **Hard** | 1 Solved | [View All →](Hard/) |
 
