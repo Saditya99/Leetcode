@@ -6,9 +6,7 @@
 
 ## 📊 Progress
 
-| Total | Solved | Remaining |
-|-------|--------|-----------|
-| 0 | 0 | 0 |
+✅ **1** problem solved
 
 ---
 
@@ -16,5 +14,5 @@
 
 | # | Problem | Solution | Topics |
 |---|---------|----------|--------|
-
+| 51 | [C++](Nqueen.cpp) | [N-Queens](https://leetcode.com/problems/n-queens/) |
 ---
