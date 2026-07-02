@@ -19,6 +19,7 @@
 | 3 | [C++ Solution](palindromeNumber.cpp) | [Leetcode Palindrome number](https://leetcode.com/problems/palindrome-number/) |
 | 14 | [C++](LongestCommonPrefix.cpp) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |
 | 20 | [C++](ValidParentheses.cpp) | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |
+| 26 | [C++](RemoveDuplicates.cpp) | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 141 | [C++](LinkedListCycle.cpp) | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |
 
 ---
