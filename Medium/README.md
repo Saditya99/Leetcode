@@ -7,7 +7,7 @@
 
 ## 📊 Progress
 
-✅ **10** problem solved
+✅ **11** problem solved
 
 ---
 
@@ -26,3 +26,4 @@ add-two-numbers/) |
 | 19 | [C++](RemoveNthFromEnd.cpp) | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 55 | [C++](JumpGame.cpp) | [Jump Game](https://leetcode.com/problems/jump-game/) |
 | 74 | [C++](SearchIn2DMatrix.cpp) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 86 | [C++](PartitionList.cpp) | [Partition List](https://leetcode.com/problems/partition-list/) |
