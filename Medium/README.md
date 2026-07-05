@@ -27,3 +27,4 @@ add-two-numbers/) |
 | 55 | [C++](JumpGame.cpp) | [Jump Game](https://leetcode.com/problems/jump-game/) |
 | 74 | [C++](SearchIn2DMatrix.cpp) | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 86 | [C++](PartitionList.cpp) | [Partition List](https://leetcode.com/problems/partition-list/) |
+| 707 | [C++](DesignLinkedList.cpp) | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |
