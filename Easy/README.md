@@ -6,7 +6,7 @@
 
 ## 📊 Progress
 
-✅ **9** problem solved
+✅ **10** problem solved
 
 ---
 
@@ -23,6 +23,7 @@
 (https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 121 | [C++](BestTimeToBuySellStock.cpp) | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 141 | [C++](LinkedListCycle.cpp) | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |
+| 392 | [C++](IsSubsequence.cpp) | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) |
 
 ---
 
