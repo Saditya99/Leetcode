@@ -7,7 +7,7 @@
 
 ## 📊 Progress
 
-✅ **14** problem solved
+✅ **15** problem solved
 
 ---
 
@@ -29,4 +29,5 @@ add-two-numbers/) |
 | 86 | [C++](PartitionList.cpp) | [Partition List](https://leetcode.com/problems/partition-list/) |
 | 707 | [C++](DesignLinkedList.cpp) | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |
 | 797 | [C++](AllPathsSourceTarget.cpp) | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) |
+| 931 | [C++](MinFallingPathSum.cpp) | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) |
 | 3217 | [C++](RemoveNodes.cpp) | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |
